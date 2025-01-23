@@ -45,8 +45,12 @@ fi
 ## Zusätzlich
 
 ```
+# To download files
 dnf install -y wget
+# To adapt code on the fly
 dnf install -y nano
+# To observe and manage processes (e.g. to free up the GPU)
+dnf install -y procps
 ```
 
 ## Config
@@ -85,6 +89,10 @@ Gewünschter Output: ``Taxonomy in /root/.local/share/instructlab/taxonomy is va
 ``ilab model serve --model-path /root/.cache/instructlab/models/Mistral-Nemo-Instruct-2407.Q4_K_M.gguf --backend llama-cpp --gpus 1``
 ### Daten generieren
 ``ilab data generate --endpoint-url http://localhost:8000/v1``
+
+based on instructlab test data:
+
+``ilab data generate --endpoint-url http://localhost:8000/v1 --taxonomy-base=empty``
 ## Modell trainieren
 
 Generierte Daten anzeigen:

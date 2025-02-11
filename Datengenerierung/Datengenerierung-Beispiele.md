@@ -31,10 +31,12 @@ Label: Yes, the store had higher earnings on the second day of the month, which 
 
 <span style="color:red">Falsche Antwort, obwohl der Tabelleninhalt korrekt widergegeben wurde.</span>
 
-Generierte Daten (Nemo):
+## Generierte Daten (Nemo):
 
 The dataset below presents the daily rainfall amounts in millimeters for a particular week. This skill enables you to select a row based on any given date within this period.\n\n| Rainfall (mm) | Date |\n|---------------|--------------|\n| 5.2 | 09-10-2023 |\n| 8.7 | 10-10-2023 |\n| 3.1 | 11-10-2023 |\n| 6.4 | 12-10-2023 |\n| 10.5 | 13-10-2023 |\n| 4.8 | 14-10-2023 |\n\nHow many days had less than 5 mm of rainfall in this week?\nThe dataset below presents the daily rainfall amounts in millimeters for a particular week. This skill enables you to select a row based on any given date within this period.\n\n| Rainfall (mm) | Date |\n|---------------|--------------|\n| 5.2 | 09-10-2023 |\n| 8.7 | 10-10-2023 |\n| 3.1 | 11-10-2023 |\n| 6.4 | 12-10-2023 |\n| 10.5 | 13-10-2023 |\n| 4.8 | 14-10-2023 |
 Label: There were 2 days with less than 5 mm of rainfall in this week.
 
 The table below illustrates the daily sales performance of a retail store over five days. It includes the total sales amount and the corresponding date.\n\n| Total Sales | Date |\n|-------------|-----------|\n| $5,000 | 2023-10-12|\n| $6,500 | 2023-10-13|\n| $4,800 | 2023-10-14|\n| $7,200 | 2023-10-15|\n| $5,500 | 2023-10-16|\n\nWhat was the highest total sales amount recorded during this period?\nThe table below illustrates the daily sales performance of a retail store over five days. It includes the total sales amount and the corresponding date.\n\n| Total Sales | Date |\n|-------------|-----------|\n| $5,000 | 2023-10-12|\n| $6,500 | 2023-10-13|\n| $4,800 | 2023-10-14|\n| $7,200 | 2023-10-15|\n| $5,500 | 2023-10-16|
 Label: The highest total sales amount recorded during this period was $7,200.
+
+### 

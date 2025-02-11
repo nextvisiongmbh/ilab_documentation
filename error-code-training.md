@@ -1,4 +1,4 @@
-model_name_or_path: /root/.cache/instructlab/models/mistralai/Mistral-Nemo-Instruct-2407
+```model_name_or_path: /root/.cache/instructlab/models/mistralai/Mistral-Nemo-Instruct-2407
 data_path: /root/.local/share/instructlab/internal/data.jsonl
 output_dir: /root/.local/share/instructlab/checkpoints
 num_epochs: 8
@@ -187,3 +187,10 @@ Call stack:
 Message: 'Failed during training loop: '
 Arguments: (RuntimeError('Suffered a failure during distributed training. Please see the training logs for more context.'),)
 Accelerated Training failed with 1
+```
+
+Fehler war aufgetreten, da mehr GPUs eingetragen waren, als verfügbar. 
+
+Korrekte Einstellung:
+
+`nproc_per_node: 1`

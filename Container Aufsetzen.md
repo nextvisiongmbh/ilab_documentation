@@ -100,4 +100,4 @@ Generierte Daten anzeigen:
 
 
 
-``ilab model train --data-path /root/.local/share/instructlab/datasets/messages_Mixtral-8x7B-Instruct-v0_2025-01-17T15_46_59.jsonl --model-path /root/.cache/instructlab/models/mistralai/Mistral-Nemo-Instruct-2407 --device cuda --pipeline accelerated --disable-accelerate-full-state-at-epoch --is-padding-free 0 --lora-rank 128``
+``ilab model train --data-path /root/.local/share/instructlab/datasets/skills_train_msgs_2025-01-30T09_19_50.jsonl --model-path /root/.cache/instructlab/models/mistralai/Mistral-Nemo-Instruct-2407 --device cuda --pipeline accelerated --disable-accelerate-full-state-at-epoch --is-padding-free 0 --lora-rank 128``

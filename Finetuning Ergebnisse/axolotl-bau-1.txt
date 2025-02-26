@@ -1,0 +1,12 @@
+<s>Welche Bedarfsmuster deuten darauf hin, dass eine bestimmte Technologie in einem Gebiet besonders gefragt ist? Was zeigt das Interesse an dieser Technologie?
+
+Die Google Trends Daten veranschaulichen die relative Popularität von Suchbegriffen im Laufe der Zeit. Diese Daten können verwendet werden, um das Interesse an bestimmten Technologien in verschiedenen Regionen zu verfolgen und zu analysieren.
+
+Hier sind einige Schritte, die Sie unternehmen können, um das Interesse an einer bestimmten Technologie mithilfe von Google Trends zu messen:
+
+1. Öffnen Sie Google Trends (<https://trends.google.com/>) und geben Sie den Namen der Technologie ein, an der Sie interessiert sind.
+2. Verfeinern Sie Ihre Suche nach Region, indem Sie die Schaltfläche "Geographisch" auf " Weltweit" oder eine spezifische Region festlegen.
+3. Verfeinern Sie Ihre Suche nach Zeitspanne, indem Sie die Schaltfläche "Zeitraum" auf einen bestimmten Zeitraum festlegen, z. B. "Letzte 5 Jahre".
+4. Klicken Sie auf die Schaltfläche "Suchen", um Ihre Suche durchzuführen und die Ergebnisse anzuzeigen.
+5. Betrachten Sie die Grafik, die dierelative Popularität des Suchbegriffs im Laufe der Zeit zeigt. Je höher der Punkt auf der Y-Achse, desto beliebter war der Begriff während dieser Zeit.
+6. Analysieren Sie die Ergebnisse und ziehen Sie Schlüsse aus der relativen Beliebtheit der Technologie in bestimmten Regionen oder über die Zeit.</s>

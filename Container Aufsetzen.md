@@ -72,9 +72,10 @@ Path to model: /root/.cache/instructlab/models/Mistral-Nemo-Instruct-2407.Q4_K_M
 
 ## Taxonomie erstellen
 
-``mkdir -p /root/.local/share/instructlab/taxonomy/compositional_skills/technology/tables/dates``
+``mkdir -p /root/.local/share/instructlab/taxonomy/compositional_skills/<path>`` 
+e.g. path = "technology/tables/dates"
 
-``cd /root/.local/share/instructlab/taxonomy/compositional_skills/technology/tables/dates``
+``cd /root/.local/share/instructlab/taxonomy/compositional_skills/<path>``
 
 ``wget https://raw.githubusercontent.com/nextvisiongmbh/taxonomy_tests/refs/heads/main/skills/science/tables/qna.yaml``
 

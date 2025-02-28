@@ -1,4 +1,5 @@
-<s>Welche Bedarfsmuster deuten darauf hin, dass eine bestimmte Technologie in einem Gebiet besonders gefragt ist? Was zeigt das Interesse an dieser Technologie?
+<s>Welche Bedarfsmuster deuten darauf hin, dass eine bestimmte Technologie in einem Gebiet besonders gefragt ist? 
+Was zeigt das Interesse an dieser Technologie?
 
 Die Google Trends Daten veranschaulichen die relative Popularität von Suchbegriffen im Laufe der Zeit. Diese Daten können verwendet werden, um das Interesse an bestimmten Technologien in verschiedenen Regionen zu verfolgen und zu analysieren.
 

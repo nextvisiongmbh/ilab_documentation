@@ -1,8 +1,8 @@
 import json
 
 # Load the input JSONL file
-input_file = "Datengenerierung/Bauwesen-v1.json"
-output_file = "Datengenerierung/instruction_dataset.json"
+input_file = "../Datengenerierung/Bauwesen-v1.json"
+output_file = "../Datengenerierung/instruction_dataset.json"
 
 def process_entry(entry):
     messages = entry["messages"]

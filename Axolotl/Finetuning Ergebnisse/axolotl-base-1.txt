@@ -1,0 +1,16 @@
+<s>Welche Bedarfsmuster deuten darauf hin, dass eine bestimmte Technologie in einem Gebiet besonders gefragt ist? 
+Die Anzahl der Patentanmeldungen kann ein Indikator dafür sein, wie wichtig eine Technologie für eine Branche oder ein Gebiet ist. In diesem Artikel wird erläutert, wie man die Patentdatenbank Patentscope der Weltorganisation für Geistiges Eigentum (WIPO) verwenden kann, um herauszufinden, welche Technologien in einer bestimmten Region oder Branche am häufigsten patentiert werden.
+
+## Schritte zur Identifizierung von Bedarfen mit Patenten
+1. Öffnen Sie den [PatentScope-Viewer](https://patentscope.wipo.int/search/en/search.jsf).
+2. Führen Sie eine Suche durch:
+        * Geben Sie die Technologie oder Branche ein, nach der Sie suchen (z.B. "Automobilindustrie").
+        * Wählen Sie den Ort aus, für den Sie Patente überprüfen möchten (z.B. "China" als Land und "Beijing" als Stadt).
+3. Filtern Sie die Ergebnisse:
+        * Sie können die Suchergebnisse nach verschiedenen Kriterien filtern, z.B. nach der Art des Dokuments (z.B. Patentamt), dem AnmeldeDatum oder dem Status des Patents.
+4. Identifizieren Sie die relevantesten Patentanmeldungen:
+        * Überfliegen Sie die Trefferliste und suchen Sie nach relevanten Patentanmeldungen. Lesen Sie die Zusammenfassung jedes Patents und sehen Sie sich die Liste der beanspruchten Erfindungen an.
+5. Analysieren Sie die Ergebnisse:
+        * Erstellen Sie eine Übersicht der wichtigsten Technologien, die in der Region oder Branche patentiert werden. Versuchen Sie, mögliche Trends und Entwicklungen zu identifizieren.
+
+Es ist wichtig zu beachten, dass die Anzahl der Patentanmeldungen nicht immer ein perfekter Indikator für die Bedeutung einer Technologie in einer Branche oder Region ist. Es gibt viele Faktoren, die beeinflussen können, ob ein Unternehmen ein Patent anmeldet oder nicht. Dennoch kann es ein wertvoller Hinweis darauf sein, wo das Interesse und der Bedarf am größten sind.</s>

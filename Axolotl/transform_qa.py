@@ -3,7 +3,7 @@ import json
 
 # Load the input JSONL file
 input_file = 'Daten/QA-JVA.xlsx'
-output_file = "../Datengenerierung/instruction_dataset_qa.json"
+output_file = "Datengenerierung/instruction_dataset_qa.json"
 
 def process_entry(entry):
     
@@ -37,9 +37,9 @@ for elem in data_dict:
     
 print(processed_data)
 
-# # Save the transformed dataset
-# with open(output_file, "w", encoding="utf-8") as f:
-#     for item in processed_data:
-#         f.write(json.dumps(item, ensure_ascii=False) + "\n")
+# Save the transformed dataset
+with open(output_file, "w", encoding="utf-8") as f:
+    for item in processed_data:
+        f.write(json.dumps(item, ensure_ascii=False) + "\n")
 
-# print(f"Processed {len(processed_data)} entries and saved to {output_file}")
+print(f"Processed {len(processed_data)} entries and saved to {output_file}")
